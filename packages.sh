@@ -15,3 +15,7 @@ asdf plugin-add golang https://github.com/kennyp/asdf-golang.git
 asdf install golang 1.17.7
 asdf plugin-add syncher https://github.com/nwillc/syncher.git
 asdf install syncher 0.0.45
+asdf plugin-add exa https://github.com/nyrst/asdf-exa.git
+asdf install exa 0.10.1
+asdf plugin-add bat https://gitlab.com/wt0f/asdf-bat.git
+asdf install bat 0.20.0
